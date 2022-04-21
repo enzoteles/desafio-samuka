@@ -7,7 +7,6 @@ import retrofit2.Call
 import retrofit2.http.*
 
 interface Endpoints {
-
     @POST("account/loginAndroid")
     fun getLogin( @Body loginBody: LoginBody): Call<LoginResponse>
 
