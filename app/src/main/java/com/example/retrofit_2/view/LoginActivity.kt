@@ -21,8 +21,8 @@ const val BASE_URL_LOGIN = "https://login.systemsatx.com.br/v1/"
 
 /**
  * para vc logar no app, vc precisa usar as credênciais
- * Login: joao@gmail.com
- * Senha: 123456
+ * Login: vaga.android@central.com
+ * Senha: Mobile@123
  * */
 
 class LoginActivity : AppCompatActivity() {

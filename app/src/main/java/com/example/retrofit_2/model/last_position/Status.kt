@@ -2,7 +2,7 @@ package com.example.retrofit_2.model.last_position
 
 data class Status(
     val anchor: Anchor,
-    val backupBattery: Int,
+    val backupBattery: String,
     val backupBatteryMeasurementUnityId: Int,
     val ignition: Boolean,
     val isAvailable: Boolean,
